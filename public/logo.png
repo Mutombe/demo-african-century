@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4B668"/>
+      <stop offset="100%" stop-color="#B8923A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="#1B3A2F" stroke="url(#gold)" stroke-width="1.5"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="url(#gold)" stroke-width="0.5" opacity="0.5"/>
+  <text x="60" y="74" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="42" font-weight="400" fill="url(#gold)" letter-spacing="-1">AC</text>
+  <text x="60" y="92" text-anchor="middle" font-family="Inter, sans-serif" font-size="6" font-weight="500" fill="#F6F1E6" letter-spacing="3">CENTURY</text>
+</svg>
