@@ -8,7 +8,7 @@ export const business = {
   legalName: 'African Century Limited',
   tagline: 'Capital. Judgment. A century to come.',
   established: 2011,
-  logo: '/logo.png',
+  logo: '/logo.svg',
   phone: '+263 24 2705503',
   whatsapp: '263242705503',
   email: 'info@africancentury.co.zw',

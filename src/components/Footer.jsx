@@ -28,7 +28,7 @@ export default function Footer() {
                 alt={business.name}
                 className="h-11 w-auto"
                 loading="lazy"
-              />
+               onError={e => { e.currentTarget.style.display = 'none'; }} />
               <span className="font-display text-xl text-ivory-100">
                 {business.name}
               </span>
